@@ -7,13 +7,13 @@ class script(object):
 
 ⚠️ 𝖧𝗂𝗍 /help for more features of Bot.
 
-<b>Bot is made by love By ~ @OwnYourBotz</b>"""
+<b>𝐵𝑜𝑡 𝑖𝑠 𝑚𝑎𝑑𝑒 𝑤𝑖𝑡ℎ ❤️ 𝐵𝑦 ~ @Mx_Networks</b>"""
 
-    HELP_TXT = """🙋🏻‍♂️ Namaste {} 🤓
+    HELP_TXT = """🙋🏻‍♂️ Hey {} 🤓
 
-○  𝗂𝗍'𝗌 𝖭𝗈𝗍𝖾 𝖢𝗈𝗆𝗉𝗅𝗂𝖼𝖺𝗍𝖾𝖽...🤓
+○  𝗂𝗍'𝗌 𝖭𝗈𝗍 𝖢𝗈𝗆𝗉𝗅𝗂𝖼𝖺𝗍𝖾𝖽...🤓
 
-○  𝖲𝖾𝖺𝗋𝖼𝗁 Movies 𝗎𝗌𝗂𝗇𝗀 𝗂𝗇𝗅𝗂𝗇𝖾 𝗆𝗈𝖽𝖾 𝖩𝗎𝗌𝗍 𝗍𝗒𝗉𝖾 <b>`@HwkFilterbot`</b> 𝖺𝗇𝖽 type 𝖺𝗇𝖽 𝗌𝖾𝖺𝗋𝖼𝗁 the 𝗆𝗈𝗏𝗂𝖾 𝗒𝗈𝗎 𝗐𝖺𝗇𝗍.....
+○  𝖲𝖾𝖺𝗋𝖼𝗁 Movies 𝗎𝗌𝗂𝗇𝗀 𝗂𝗇𝗅𝗂𝗇𝖾 𝗆𝗈𝖽𝖾 𝖩𝗎𝗌𝗍 𝗍𝗒𝗉𝖾 𝖺𝗇𝖽 𝗌𝖾𝖺𝗋𝖼𝗁 the 𝗆𝗈𝗏𝗂𝖾 𝗒𝗈𝗎 𝗐𝖺𝗇𝗍.....
 
 ○ More Available 𝖢𝗈𝗆𝗆𝖺𝗇𝖽𝗌
      
@@ -26,21 +26,21 @@ class script(object):
  /broadcast - Broadcast (𝖮𝗐𝗇𝖾𝗋 𝖮𝗇𝗅𝗒)"""
 
     ABOUT_TXT = """<b>○ 𝖬𝗒 𝖭𝖺𝗆𝖾: {}
-○ 𝖢𝗋𝖾𝖺𝗍𝗈𝗋 : <a href='https://t.me/HelplessBoi'>Predator</a>
-○ 𝖫𝖺𝗇𝗀𝗎𝖺𝗀𝖾 : 𝖯𝗒𝗍𝗁𝗈𝗇 𝟥 
+○ 𝖢𝗋𝖾𝖺𝗍𝗈𝗋 : <a href='https://t.me/Sp_I_dE_x'>✴⃝ Ŝ𝕡ＩᵈＥ 𝓍 🍟☠</a>
+○ 𝖫𝖺𝗇𝗀𝗎𝖺𝗀𝖾 : 𝖯𝗒𝗍𝗁𝗈𝗇
 ○ 𝖫𝗂𝖻𝗋𝖺𝗋𝗒 : 𝖯𝗒𝗋𝗈𝗀𝗋𝖺𝗆 𝖺𝗌𝗒𝗇𝖼𝗂𝗈 𝟢.𝟣𝟩.𝟣 
-○ 𝖲𝖾𝗋𝗏𝖾𝗋 : Contabo
-○ 𝖣𝖺𝗍𝖺𝖻𝖺𝗌𝖾 : <a href='https://www.mongodb.com'>𝖬𝗈𝗇𝗀𝗈𝖣𝖡 𝖥𝗋𝖾𝖾 𝖳𝗂𝖾𝗋</a>
+○ 𝖲𝖾𝗋𝗏𝖾𝗋 : VPS
+○ 𝖣𝖺𝗍𝖺𝖻𝖺𝗌𝖾 : <a href='https://www.mongodb.com'>𝖬𝗈𝗇𝗀𝗈𝖣𝖡</a>
 ○ 𝖡𝗎𝗂𝗅𝖽 𝖲𝗍𝖺𝗍𝗎𝗌 : v1.0.1 [BeTa]
-○ 𝖲𝗎𝗉𝗉𝗈𝗋𝗍 𝖦𝗋𝗈𝗎𝗉 : <a href='https://t.me/TeleRoid14'>TeleRoid Support</a>"""
+○ 𝖲𝗎𝗉𝗉𝗈𝗋𝗍 Chat : <a href='https://t.me/mx_support_bot'>Click Here</a>"""
 
     SOURCE_TXT = """<b>NOTE:</b>
 Special Thanks to EvaMaria Devs & Cloners for the codes 
 <b>DEV:</b>
 
-- <a href=https://t.me/HelpLessBoi>『Predator』</a>
+- <a href=https://t.me/Sp_I_dE_x>『✴⃝ Ŝ𝕡ＩᵈＥ𝓍 🍟☠』</a>
 
-- Source - https://github.com/PredatorHackerzZ/SamanthaMoviesRobot""" #please don't change repo link give credit :)
+- Source - It's Not A Open Source Project"""
 
     MANUELFILTER_TXT = """HELP: <b>Fɪʟᴛᴇʀꜱ</b>
 - Fɪʟᴛᴇʀ ɪꜱ ᴀ ꜰᴇᴀᴛᴜʀᴇ ᴡᴇʀᴇ ᴜꜱᴇʀꜱ ᴄᴀɴ ꜱᴇᴛ ᴀᴜᴛᴏᴍᴀᴛᴇᴅ ʀᴇᴘʟɪᴇꜱ ꜰᴏʀ ᴀ ᴘᴀʀᴛɪᴄᴜʟᴀʀ ᴋᴇʏᴡᴏʀᴅ ᴀɴᴅ bot ᴡɪʟʟ ʀᴇꜱᴘᴏɴᴅ ᴡʜᴇɴᴇᴠᴇʀ given ᴋᴇʏᴡᴏʀᴅ ɪꜱ ꜰᴏᴜɴᴅ ɪɴ ᴛʜᴇ ᴍᴇꜱꜱᴀɢᴇ
@@ -126,7 +126,7 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 𝖳𝗈𝗍𝖺𝗅 𝖢𝗁𝖺𝗍𝗌: <code>{}</code>
 𝖴𝗌𝖾𝖽 𝖲𝗍𝗈𝗋𝖺𝗀𝖾: <code>{}</code>
 
-<b>Bot is made by love By ~ @OwnYourBotz</b>"""
+<b>Bot is made with love By ~ @Mx_Networks</b>"""
 
     LOG_TEXT_G = """#NewGroup
 Gʀᴏᴜᴘ = {}(<code>{}</code>)
@@ -175,13 +175,13 @@ Request Again"""
 ‼️𝗗𝗼𝗻𝘁 𝗮𝗱𝗱 𝘄𝗼𝗿𝗱𝘀 & 𝘀𝘆𝗺𝗯𝗼𝗹𝘀 𝗹𝗶𝗸𝗲 , . -  send link movie series 𝗲𝘁𝗰‼️"""
 
     OWNER_INFO = """
-○ 𝖢𝗋𝖾𝖺𝗍𝗈𝗋 : <a href='https://t.me/HelpLessBoi'>Predator</a>
+○ 𝖢𝗋𝖾𝖺𝗍𝗈𝗋 : <a href='https://t.me/Sp_I_dE_x'>✴⃝ Ŝ𝕡ＩᵈＥ𝓍 🍟☠</a>
 
-○ 𝖲𝗎𝗉𝗉𝗈𝗋𝗍 𝖦𝗋𝗈𝗎𝗉 : <a href='https://t.me/TeleRoid14'>TeleRoid Support</a>
+○ Updates : <a href='https://t.me/TeleRoid14'>Mx Networks</a>
 
-○ Channel Updates: <a href='https://t.me/TeleRoidGroup'>TeleRoid Updates</a>
+○ Backup : <a href='https://t.me/MxBackups'>Mx Backup</a>
 
-○ KDramas Updates: <a href='https://t.me/TeleRoidGroup'>KDramasFLix</a>
+○ Bots : <a href='https://t.me/iPopkarnBots'>iPopkarnBots</a>
 
 """
 
@@ -195,20 +195,22 @@ Name <b>: {}</b>
 Message <b>: {}</b>"""
 
     CAPTION = """
-📂 <em>File Name</em>: <code>@HWkOTT |{file_name}</code> 
+📂 <em>File Name</em>: <code>{file_name}</code> 
 
 🖇 <em>File Size</em>: <code>{file_size}</code> 
 
-</i>Join</i> [MOVIES FLIXERS](https://t.me/MoviesFlixers_DL)  
+</i>JOIN US</i> [Mx Networks](https://t.me/Mx_Networks)  
 
-🖥 <i>Requests</i> - ||@Hwk_OTT|| """
+🖥 <i>Powered By</i> - ||@iPopkarnBots|| """
 
     IMDB_TEMPLATE_TXT = """
 🏷 𝖳𝗂𝗍𝗅𝖾: <a href={url}>{title}</a> 
 🔮 𝖸𝖾𝖺𝗋: {year} \n⭐️ 𝖱𝖺𝗍𝗂𝗇𝗀𝗌: {rating}/ 10  
 🎭 𝖦𝖾𝗇𝖾𝗋𝗌: {genres} 
 
-🎊 𝖯𝗈𝗐𝖾𝗋𝖾𝖽 𝖡𝗒 [『Predator』](https://t.me/HelpLessBoi)"""
+🎊 𝙋𝙤𝙬𝙚𝙧𝙚𝙙 𝘽𝙮 [『𝗶𝗣𝗼𝗽𝗸𝗮𝗿𝗻𝗕𝗼𝘁𝘀』](https://t.me/iPopkarnBots)
+
+𝐍𝐨𝐭𝐞: sᴏᴍᴇᴛɪᴍᴇs ɪᴍᴅʙ ʀᴇsᴜʟᴛs ᴀʀᴇ ɴᴏᴛ ᴀᴄᴄᴜʀᴀᴛᴇ, sᴏ ᴘʟᴇᴀsᴇ ғɪɴᴅ ᴏᴜᴛ ʏᴏᴜʀsᴇʟғ ʙʏ ᴄʟɪᴄᴋɪɴɢ ᴏɴ ʙᴇʟᴏᴡ ʙᴜᴛᴛᴏɴs."""
     
     ALL_FILTERS = """
 <b>Hᴇʏ {}, Tʜᴇsᴇ ᴀʀᴇ ᴍʏ ᴛʜʀᴇᴇ ᴛʏᴘᴇs ᴏғ ғɪʟᴛᴇʀs.</b>"""
@@ -240,4 +242,4 @@ Aᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs:
 🛠️ Bᴜɪʟᴅ Sᴛᴀᴛᴜs: <code>v2.7.2 [ Sᴛᴀʙʟᴇ ]</code></b>"""
 
     LOGO = """
-TeleRoid Bots"""
+iPopkarnBots"""
