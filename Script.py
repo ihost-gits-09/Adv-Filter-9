@@ -1,5 +1,5 @@
 class script(object):
-    START_TXT = """Hiii!! {}🤩
+    START_TXT = """Hiii!!🤩 {}
 
 <b><u>🍿 Welcome to the worlds coolest search engine!.</u></b>
 
