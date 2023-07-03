@@ -5,7 +5,7 @@ class script(object):
 
 <i>Here, you can watch any movie/series by just typing title of a film or series..🔍</i>
 
-👉𝖧𝗂𝗍 /help for more information about How to search/watch...❓
+⚠️𝖧𝗂𝗍 /help for more information about How to search/watch...❓
 
 
 <b>🎊 Powered by: @iPopkarnBots </b>"""
