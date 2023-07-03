@@ -28,7 +28,7 @@ MELCOW_VID = environ.get("MELCOW_VID", "https://te.legra.ph/file/485b93dd1ec8010
 SPELL_IMG = environ.get("SPELL_IMG", "https://telegra.ph/file/2a888a370f479f4338f7c.jpg")
 
 # Admins, Channels & Users
-ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '5792675265 5681376068').split()]
+ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '5792675265 5681376068 5650200786').split()]
 CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('CHANNELS', '0').split()]
 auth_users = [int(user) if id_pattern.search(user) else user for user in environ.get('AUTH_USERS', '').split()]
 AUTH_USERS = (auth_users + ADMINS) if auth_users else []
@@ -54,7 +54,7 @@ SHORTLINK_API = environ.get('SHORTLINK_API', '0cf6028fba3f0a9c4ac283f7807039dac1
 IS_SHORTLINK = is_enabled((environ.get('IS_SHORTLINK', 'True')), True)
 MAX_B_TN = environ.get("MAX_B_TN", "7")
 MAX_BTN = is_enabled((environ.get('MAX_BTN', "True")), True)
-LOG_CHANNEL = int(environ.get('LOG_CHANNEL', -1001847958537))
+LOG_CHANNEL = int(environ.get('LOG_CHANNEL', -1001594651224))
 SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'Mx_Support_Bot')
 P_TTI_SHOW_OFF = is_enabled((environ.get('P_TTI_SHOW_OFF', "True")), False)
 IMDB = is_enabled((environ.get('IMDB', "True")), True)
