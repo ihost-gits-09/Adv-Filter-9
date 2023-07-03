@@ -16,13 +16,13 @@ PORT = environ.get("PORT", "8020")
 SESSION = environ.get('SESSION', 'Media_search')
 API_ID = int(environ.get('API_ID', '21818317'))
 API_HASH = environ.get('API_HASH', 'bc6ab154300cc41fe127ca4d658dc75d')
-BOT_TOKEN = environ.get('BOT_TOKEN', '5930273305:AAHDDHFEfNqYowCz7ZdDAxgdrkWvSCILgr8')
+BOT_TOKEN = environ.get('BOT_TOKEN', '5329268513:AAHTEy8wvBZllebN140yVzqqYjLy_wP5rXg')
 
 # Bot settings
 CACHE_TIME = int(environ.get('CACHE_TIME', 300))
 USE_CAPTION_FILTER = bool(environ.get('USE_CAPTION_FILTER', True))
 # Bot images & videos
-PICS = (environ.get('PICS', 'https://te.legra.ph/file/d7e3ad98f90b33ef1d464.jpg https://te.legra.ph/file/36c670a66d24d2d49a855.jpg https://te.legra.ph/file/1c5726e8571e2a77a5e30.jpg https://te.legra.ph/file/bd5888944e1a078b08f6c.jpg https://te.legra.ph/file/650daad4829728067de00.jpg https://te.legra.ph/file/ab366a366ae9bb9d45441.jpg https://te.legra.ph/file/ef681a67910349f784fd2.jpg https://te.legra.ph/file/19db6f4b9140b8ce4c172.jpg https://te.legra.ph/file/9964835be1f0070b2d5b9.jpg https://te.legra.ph/file/c9ceea052fdd7d94e02f9.jpg https://te.legra.ph/file/8eaa4c7e5c12650b4720a.jpg https://te.legra.ph/file/5c1bfa48d00d93c9ecae2.jpg https://te.legra.ph/file/0bbd907f39fffe4cdd1b6.jpg https://te.legra.ph/file/52eb6d6a741404a03bc53.jpg https://te.legra.ph/file/1f62d5cd902fba87cac5b.jpg https://te.legra.ph/file/c5b3bed127f53f9dc443a.jpg https://te.legra.ph/file/b707025c83e6d9587f57e.jpg https://te.legra.ph/file/9f83fae824b52c4bf0c5c.jpg')).split()
+PICS = (environ.get('PICS', 'https://te.legra.ph/file/1139fdfa5a16fd25174ca.jpg https://te.legra.ph/file/f8a70586ebdf34964cfde.jpg https://te.legra.ph/file/1610f3a06dbe3f6cd72b6.jpg https://te.legra.ph/file/21895d44aa7dad706984a.jpg https://te.legra.ph/file/b7b66ef521f26aecd1229.jpg https://te.legra.ph/file/f1eaff6180c56a91a68ac.jpg https://te.legra.ph/file/6ceceac3f5c5220625fe1.jpg https://te.legra.ph/file/958b11eb4caaf7bf6bf99.jpg https://te.legra.ph/file/eba040375f0b9387d60ba.jpg https://te.legra.ph/file/93cfdd1065785b1ef0f2a.jpg https://te.legra.ph/file/00ca87b4d034be7470bd7.jpg https://te.legra.ph/file/2e51a3fcfe9bfa985b96b.jpg https://te.legra.ph/file/c505cf3db657008f57b19.jpg https://te.legra.ph/file/71bb1cf1e8d65e83b7b7c.jpg https://te.legra.ph/file/695b943b51a0c79768899.jpg https://te.legra.ph/file/c96b6fcb8bab99317d11e.jpg https://te.legra.ph/file/bca690b90a9accbd962d7.jpg https://te.legra.ph/file/4f6192559efb33cca8b76.jpg')).split()
 NOR_IMG = environ.get("NOR_IMG", "https://telegra.ph/file/0593a3103ba1b9a5855bf.jpg")
 MELCOW_VID = environ.get("MELCOW_VID", "https://te.legra.ph/file/485b93dd1ec801061f091.mp4")
 SPELL_IMG = environ.get("SPELL_IMG", "https://telegra.ph/file/2a888a370f479f4338f7c.jpg")
@@ -43,7 +43,7 @@ SUPPORT_CHAT_ID = int(support_chat_id) if support_chat_id and id_pattern.search(
 NO_RESULTS_MSG = bool(environ.get("NO_RESULTS_MSG", False))
 
 # MongoDB information
-DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://king:king@cluster0.qreql20.mongodb.net/?retryWrites=true&w=majority")
+DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://cruso:cruso@cluster0.61slvmv.mongodb.net/?retryWrites=true&w=majority")
 DATABASE_NAME = environ.get('DATABASE_NAME', "Cluster0")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 
