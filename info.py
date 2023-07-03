@@ -16,13 +16,13 @@ PORT = environ.get("PORT", "8060")
 SESSION = environ.get('SESSION', 'Media_search')
 API_ID = int(environ.get('API_ID', '21818317'))
 API_HASH = environ.get('API_HASH', 'bc6ab154300cc41fe127ca4d658dc75d')
-BOT_TOKEN = environ.get('BOT_TOKEN', '5429528025:AAGpxGMBU9ik3Sq5hPh88LFgHtkctX_jk8I')
+BOT_TOKEN = environ.get('BOT_TOKEN', '5452128403:AAHWyxVzhJBPhMEIyiqZt8BIyxQjm85BsM0')
 
 # Bot settings
 CACHE_TIME = int(environ.get('CACHE_TIME', 300))
 USE_CAPTION_FILTER = bool(environ.get('USE_CAPTION_FILTER', True))
 # Bot images & videos
-PICS = (environ.get('PICS', 'https://te.legra.ph/file/c3e02659a2cc8bc740fb4.jpg https://te.legra.ph/file/59bdc1d02aff648b726c5.jpg https://te.legra.ph/file/3aafec1c37b3cba5041cf.jpg https://te.legra.ph/file/c2bb06c31ded7e91b0968.jpg https://te.legra.ph/file/e6d477df30b5d54b25c14.jpg https://te.legra.ph/file/99509f63ed5fc9febdad9.jpg https://te.legra.ph/file/484af398c19c7b9f7b2c2.jpg https://te.legra.ph/file/05f27c3a895f2ff0b8ff7.jpg https://te.legra.ph/file/095c704a1f066cd1b6d85.jpg https://te.legra.ph/file/f538d99c6e06d30ac6fd0.jpg https://te.legra.ph/file/e5bdb2c4359c785f3d35a.jpg https://te.legra.ph/file/30976a76bfb18f3db6f4b.jpg https://te.legra.ph/file/14fedafda5d02256275bb.jpg https://te.legra.ph/file/e348ffc6811636c208d51.jpg https://te.legra.ph/file/ef5440b16d8abd62b4828.jpg https://te.legra.ph/file/9fd7062a014e86f604fce.jpg https://te.legra.ph/file/16a1b6b7190f8130f1212.jpg https://te.legra.ph/file/79fee64016be9cbf538b6.jpg https://te.legra.ph/file/d93b3d3d31c1b4b057b58.jpg https://te.legra.ph/file/68b43e53ad546aa46f23d.jpg')).split()
+PICS = (environ.get('PICS', '')).split()
 NOR_IMG = environ.get("NOR_IMG", "https://telegra.ph/file/0593a3103ba1b9a5855bf.jpg")
 MELCOW_VID = environ.get("MELCOW_VID", "https://te.legra.ph/file/485b93dd1ec801061f091.mp4")
 SPELL_IMG = environ.get("SPELL_IMG", "https://telegra.ph/file/2a888a370f479f4338f7c.jpg")
@@ -43,7 +43,7 @@ SUPPORT_CHAT_ID = int(support_chat_id) if support_chat_id and id_pattern.search(
 NO_RESULTS_MSG = bool(environ.get("NO_RESULTS_MSG", False))
 
 # MongoDB information
-DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://container:container@cluster0.x8edtgx.mongodb.net/?retryWrites=true&w=majority")
+DATABASE_URI = environ.get('DATABASE_URI', "")
 DATABASE_NAME = environ.get('DATABASE_NAME', "Cluster0")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 
