@@ -3,11 +3,12 @@ class script(object):
 
 <b>🍿 Welcome to the worlds largest search engine on the net!</b>
 
-<i>Here, you can watch any movies/series which are available on the internet by just typing title of a film/series.</i>
+<i>Here, you can watch any movies/series which are available on the internet by just typing title of a film/series..🔍</i>
 
-⚠️ 𝖧𝗂𝗍 /help for more information about how to find/search/watch...❓.
+👉𝖧𝗂𝗍 /help for more information about How to search/watch...❓
 
-<b>🎊 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆: @iPopkarnBots</b>"""
+
+<b>🎊 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆: ❤️ @iPopkarnBots </b>"""
 
     HELP_TXT = """🙋🏻‍♂️ Hey {} 🤓
 
