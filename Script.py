@@ -1,13 +1,13 @@
 class script(object):
-    START_TXT = """Hello {}
+    START_TXT = """Hiii!! {}🤩
 
-<b><u>This is A Pro Movies Autofilter-Bot with 4GB+ media files support.</u></b>
+<b><u>🍿 Welcome to the worlds coolest search engine!.</u></b>
 
-<i> Just Add me to the Group with Admin Permission.</i>
+<i> Type a movie or series name to see the magic.✨</i>
 
-⚠️ 𝖧𝗂𝗍 /help for more features of Bot.
+⚠️ 𝖧𝗂𝗍 /help for more information about how to...❓.
 
-<b>𝐵𝑜𝑡 𝑖𝑠 𝑚𝑎𝑑𝑒 𝑤𝑖𝑡ℎ ❤️ 𝐵𝑦 ~ @Mx_Networks</b>"""
+<b>🎊 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆: @iPopkarnBots</b>"""
 
     HELP_TXT = """🙋🏻‍♂️ Hey {} 🤓
 
