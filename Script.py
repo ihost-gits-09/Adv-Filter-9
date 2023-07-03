@@ -1,11 +1,11 @@
 class script(object):
-    START_TXT = """Hiii!!🤩 {}
+    START_TXT = """Hiii!!🤩
 
-<b><u>🍿 Welcome to the worlds coolest search engine!.</u></b>
+<b>🍿 Welcome to the worlds largest search engine on the net!</b>
 
-<i> Type a movie or series name to see the magic.✨</i>
+<i>Here, you can watch any movies/series which are available on the internet by just typing title of a film/series.</i>
 
-⚠️ 𝖧𝗂𝗍 /help for more information about how to...❓.
+⚠️ 𝖧𝗂𝗍 /help for more information about how to find/search/watch...❓.
 
 <b>🎊 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆: @iPopkarnBots</b>"""
 
