@@ -8,7 +8,7 @@ class script(object):
 👉𝖧𝗂𝗍 /help for more information about How to search/watch...❓
 
 
-<b>🎊 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆: ❤️ @iPopkarnBots </b>"""
+<b>🎊 Powered by: @iPopkarnBots </b>"""
 
     HELP_TXT = """🙋🏻‍♂️ Hey {} 🤓
 
