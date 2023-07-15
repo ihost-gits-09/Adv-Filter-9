@@ -1,11 +1,11 @@
 class script(object):
     START_TXT = """Hiii!!🤩
 
-<b>🍿 Welcome to the worlds largest search engine on the net!</b>
+<b>🍿 Welcome to the worlds coolest search engine on the net!</b>
 
 <i>Here, you can watch any movie/series by just typing title of a film or series..🔍</i>
 
-⚠️𝖧𝗂𝗍 /help for more information about How to search/watch...❓
+⚠️Watch @iPopkarnTutorial for more information about How to...❓
 
 
 <b>🎊 Powered by: @iPopkarnBots </b>"""
@@ -127,7 +127,7 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 𝖳𝗈𝗍𝖺𝗅 𝖢𝗁𝖺𝗍𝗌: <code>{}</code>
 𝖴𝗌𝖾𝖽 𝖲𝗍𝗈𝗋𝖺𝗀𝖾: <code>{}</code>
 
-<b>Bot is made with love By ~ @Mx_Networks</b>"""
+<b>Bot is made with ♥️ By ~ @Mx_Networks</b>"""
 
     LOG_TEXT_G = """#NewGroup
 Gʀᴏᴜᴘ = {}(<code>{}</code>)
@@ -178,7 +178,7 @@ Request Again"""
     OWNER_INFO = """
 ○ 𝖢𝗋𝖾𝖺𝗍𝗈𝗋 : <a href='https://t.me/Sp_I_dE_x'>✴⃝ Ŝ𝕡ＩᵈＥ𝓍 🍟☠</a>
 
-○ Updates : <a href='https://t.me/TeleRoid14'>Mx Networks</a>
+○ Updates : <a href='https://t.me/Mx_Networks'>Mx Networks</a>
 
 ○ Backup : <a href='https://t.me/MxBackups'>Mx Backup</a>
 
